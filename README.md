@@ -26,4 +26,4 @@ This project aims to provide a comprehensive fitness management system that empo
 Once installed, you can use the application to track your fitness goals and progress. You will be able to register as a new user, login, and access various fitness tools available within the app.
 
 ## Live Demo
-Check out the live demo [here](https://your-live-demo-link.com) to see the project in action!
+Check out the live demo https://drive.google.com/file/d/1i6N78jX6rZk8q4tbUNxe1pV4c6CPTJwH/view?usp=sharing to see the project in action!
